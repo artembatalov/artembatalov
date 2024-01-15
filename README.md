@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @artembatalov
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in math, ecology, machine learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @artembatalow (tg)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me vk.com/artembatalow 
 
 <!---
 artembatalov/artembatalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
