@@ -10,7 +10,3 @@
 ## Connect
 - 💼 [LinkedIn](https://linkedin.com/in/artem-batalov)
 - 📧 [Email](mailto:artyom.batalov@proton.me)
-
-## Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artembatalov&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
