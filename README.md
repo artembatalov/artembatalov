@@ -1,6 +1,7 @@
 # Hey, I'm Artem 👋
 
 Software Engineering student at ITMO University (TOP Data Science stream), graduating 2029.
+
 I build systems software and quant-finance tooling in modern C++.
 
 ### What I'm working on
