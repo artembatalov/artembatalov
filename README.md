@@ -2,9 +2,7 @@
 
 Software Engineering student at ITMO University (TOP Data Science stream), graduating 2029. I build systems software and quant-finance tooling in modern C++.
 
-### What I'm working on
-- 🔧 **[finam-api-manager](https://github.com/artembatalov/finam-api-manager)** — a C++17/20 library wrapping the Finam Trade API (CMake, GoogleTest, CI)
-- 🧮 Strong on algorithms & data structures, currently prepping for a backend internship
+<!-- ### What I'm working on -->
 
 ## Tech
 **Languages**
