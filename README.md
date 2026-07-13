@@ -3,17 +3,19 @@
 Software Engineering student at ITMO University (TOP Data Science stream), graduating 2029.
 
 ## Currently
-**[finam-api-manager](https://github.com/artembatalov/finam-api-manager)** - library simplifying interaction with Finam API
-**[kvik](https://github.com/artembatalov/kvik)** - key-value in-memory storage (will be presented soon)
-**[post-queue](https://github.com/artembatalov/post-queue)** - background job processor
+- **[finam-api-manager](https://github.com/artembatalov/finam-api-manager)** - library simplifying interaction with Finam API
+- **[kvik](https://github.com/artembatalov/kvik)** - key-value in-memory storage (will be presented soon)
+- **[post-queue](https://github.com/artembatalov/post-queue)** - background job processor
 
 ## Tech
+
 **Tools**
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Languages**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -21,6 +23,7 @@ Software Engineering student at ITMO University (TOP Data Science stream), gradu
 
 
 **Backend**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -36,5 +39,6 @@ Software Engineering student at ITMO University (TOP Data Science stream), gradu
 </p>
 
 ## Connect
+
 💼 [LinkedIn](https://linkedin.com/in/artem-batalov)
 📭 [Email](mailto:artyom.batalov@proton.me)
