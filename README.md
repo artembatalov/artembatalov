@@ -30,15 +30,10 @@ Software Engineering student at ITMO University (TOP Data Science stream), gradu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## Algorithms
+## Algorithms && Activity
 <p align="left">
   <a href="https://leetcode.com/u/artembatalov/">
     <img src="https://leetcard.jacoblin.cool/artembatalov?theme=dark&font=Nunito&ext=heatmap" height="200" />
   </a>
   <img src="https://streak-stats.demolab.com?user=artembatalov&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200" />
 </p>
-
-## Connect
-
-💼 [LinkedIn](https://linkedin.com/in/artem-batalov)
-📭 [Email](mailto:artyom.batalov@proton.me)
