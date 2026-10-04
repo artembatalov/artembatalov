@@ -3,9 +3,7 @@
 Software Engineering student at ITMO University (TOP Data Science stream), graduating 2029.
 
 ## Currently
-- **[finam-api-manager](https://github.com/artembatalov/finam-api-manager)** - library simplifying interaction with Finam API
-- **[kvik](https://github.com/artembatalov/kvik)** - key-value in-memory storage (will be presented soon)
-- **[post-queue](https://github.com/artembatalov/post-queue)** - background job processor
+(Actualizing...)
 
 ## Tech
 
@@ -19,8 +17,6 @@ Software Engineering student at ITMO University (TOP Data Science stream), gradu
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 **Backend**
 
