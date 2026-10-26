@@ -2,9 +2,6 @@
 
 Software Engineering student at ITMO University (TOP Data Science stream), graduating 2029.
 
-## Currently
-(Actualizing...)
-
 ## Tech
 
 **Tools**
